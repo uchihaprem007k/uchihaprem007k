@@ -2,9 +2,13 @@
 
 # `PREM SINGH`
 
-```text
+```text id="0d4n2h"
 AI / ML  •  FULL-STACK  •  UI/UX  •  CREATIVE TECHNOLOGY
 ```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=900&color=00D9A6&center=true&vCenter=true&width=720&lines=BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+EXPERIMENTING;TURNING+IDEAS+INTO+WORKING+SYSTEMS;CODE+%E2%80%A2+DESIGN+%E2%80%A2+AI+%E2%80%A2+CREATIVE+TECH" alt="Animated introduction">
+
+<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=uchihaprem007k\&style=for-the-badge\&color=00d9a6\&label=PROFILE+VIEWS)](https://github.com/uchihaprem007k)
 [![GitHub](https://img.shields.io/badge/GITHUB-0b0d12?style=for-the-badge\&logo=github\&logoColor=00d9a6)](https://github.com/uchihaprem007k)
@@ -16,7 +20,7 @@ AI / ML  •  FULL-STACK  •  UI/UX  •  CREATIVE TECHNOLOGY
 
 ## `> identify --self`
 
-```text
+```text id="v9b2h6"
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  NAME       : Prem Singh                                   │
@@ -36,7 +40,7 @@ I build software, experiment with AI, design interfaces, and explore the interse
 
 I'm interested in understanding how things work rather than only learning how to use them.
 
-```text
+```text id="m2gq4a"
 > skillset --overview
 
 AI / ML              ▰▰▰▰▰▰░░░░  60%
@@ -50,54 +54,70 @@ CREATIVE             ▰▰▰▰▰▰▰░░░  65%
 
 ## `> arsenal --load`
 
-### AI / ML
+### `AI / ML`
 
-![Python](https://img.shields.io/badge/Python-0b0d12?style=for-the-badge\&logo=python\&logoColor=00d9a6)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0b0d12?style=for-the-badge\&logo=tensorflow\&logoColor=00d9a6)
-![OpenCV](https://img.shields.io/badge/OpenCV-0b0d12?style=for-the-badge\&logo=opencv\&logoColor=00d9a6)
-![NumPy](https://img.shields.io/badge/NumPy-0b0d12?style=for-the-badge\&logo=numpy\&logoColor=00d9a6)
+<div align="center">
 
-### Development
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,pandas,sklearn,jupyter&theme=dark" alt="AI ML stack">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0b0d12?style=for-the-badge\&logo=javascript\&logoColor=00d9a6)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b0d12?style=for-the-badge\&logo=typescript\&logoColor=00d9a6)
-![React](https://img.shields.io/badge/React-0b0d12?style=for-the-badge\&logo=react\&logoColor=00d9a6)
-![Next.js](https://img.shields.io/badge/Next.js-0b0d12?style=for-the-badge\&logo=nextdotjs\&logoColor=00d9a6)
-![Node.js](https://img.shields.io/badge/Node.js-0b0d12?style=for-the-badge\&logo=nodedotjs\&logoColor=00d9a6)
-![NestJS](https://img.shields.io/badge/NestJS-0b0d12?style=for-the-badge\&logo=nestjs\&logoColor=00d9a6)
-![Express](https://img.shields.io/badge/Express-0b0d12?style=for-the-badge\&logo=express\&logoColor=00d9a6)
-![FastAPI](https://img.shields.io/badge/FastAPI-0b0d12?style=for-the-badge\&logo=fastapi\&logoColor=00d9a6)
+</div>
 
-### Mobile / Systems
+```text id="x3kq8m"
+Python • NumPy • Pandas • Matplotlib • Scikit-learn
+TensorFlow • OpenCV • Jupyter • Machine Learning
+```
 
-![React Native](https://img.shields.io/badge/React_Native-0b0d12?style=for-the-badge\&logo=react\&logoColor=00d9a6)
-![Expo](https://img.shields.io/badge/Expo-0b0d12?style=for-the-badge\&logo=expo\&logoColor=00d9a6)
-![C](https://img.shields.io/badge/C-0b0d12?style=for-the-badge\&logo=c\&logoColor=00d9a6)
-![C++](https://img.shields.io/badge/C%2B%2B-0b0d12?style=for-the-badge\&logo=cpp\&logoColor=00d9a6)
-![C#](https://img.shields.io/badge/C%23-0b0d12?style=for-the-badge\&logo=csharp\&logoColor=00d9a6)
-![Rust](https://img.shields.io/badge/Rust-0b0d12?style=for-the-badge\&logo=rust\&logoColor=00d9a6)
-![Kotlin](https://img.shields.io/badge/Kotlin-0b0d12?style=for-the-badge\&logo=kotlin\&logoColor=00d9a6)
-![Dart](https://img.shields.io/badge/Dart-0b0d12?style=for-the-badge\&logo=dart\&logoColor=00d9a6)
+### `Development`
 
-### Data / Infrastructure
+<div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0d12?style=for-the-badge\&logo=postgresql\&logoColor=00d9a6)
-![MongoDB](https://img.shields.io/badge/MongoDB-0b0d12?style=for-the-badge\&logo=mongodb\&logoColor=00d9a6)
-![Supabase](https://img.shields.io/badge/Supabase-0b0d12?style=for-the-badge\&logo=supabase\&logoColor=00d9a6)
-![Prisma](https://img.shields.io/badge/Prisma-0b0d12?style=for-the-badge\&logo=prisma\&logoColor=00d9a6)
-![Redis](https://img.shields.io/badge/Redis-0b0d12?style=for-the-badge\&logo=redis\&logoColor=00d9a6)
-![Docker](https://img.shields.io/badge/Docker-0b0d12?style=for-the-badge\&logo=docker\&logoColor=00d9a6)
-![Git](https://img.shields.io/badge/Git-0b0d12?style=for-the-badge\&logo=git\&logoColor=00d9a6)
-![GitHub](https://img.shields.io/badge/GitHub-0b0d12?style=for-the-badge\&logo=github\&logoColor=00d9a6)
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,nestjs,express,fastapi&theme=dark" alt="Development stack">
 
-### Creative
+</div>
 
-![Figma](https://img.shields.io/badge/Figma-0b0d12?style=for-the-badge\&logo=figma\&logoColor=00d9a6)
-![Photoshop](https://img.shields.io/badge/Photoshop-0b0d12?style=for-the-badge\&logo=adobephotoshop\&logoColor=00d9a6)
-![Illustrator](https://img.shields.io/badge/Illustrator-0b0d12?style=for-the-badge\&logo=adobeillustrator\&logoColor=00d9a6)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0b0d12?style=for-the-badge\&logo=adobepremierepro\&logoColor=00d9a6)
-![After Effects](https://img.shields.io/badge/After_Effects-0b0d12?style=for-the-badge\&logo=adobeaftereffects\&logoColor=00d9a6)
-![Blender](https://img.shields.io/badge/Blender-0b0d12?style=for-the-badge\&logo=blender\&logoColor=00d9a6)
+```text id="8l0wqx"
+JavaScript • TypeScript • React • Next.js
+Node.js • NestJS • Express • FastAPI
+```
+
+### `Mobile / Systems`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,expo,dart,kotlin,c,cpp,cs,rust&theme=dark" alt="Mobile and systems stack">
+
+</div>
+
+```text id="1x2j3p"
+React Native • Expo • Dart • Kotlin
+C • C++ • C# • Rust
+```
+
+### `Data / Infrastructure`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma,redis,docker,git,github&theme=dark" alt="Data and infrastructure stack">
+
+</div>
+
+```text id="kq5w2f"
+PostgreSQL • MongoDB • Supabase • Prisma
+Redis • Docker • Git • GitHub
+```
+
+### `Creative`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,blender&theme=dark" alt="Creative tools">
+
+</div>
+
+```text id="8z3n0q"
+Figma • Photoshop • Illustrator
+Premiere Pro • After Effects • Blender
+```
 
 ---
 
@@ -129,7 +149,7 @@ CREATIVE             ▰▰▰▰▰▰▰░░░  65%
 
 ## `> current_arc`
 
-```text
+```text id="6c9m2v"
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │  ARC // 01    MACHINE LEARNING                               │
@@ -154,9 +174,10 @@ CREATIVE             ▰▰▰▰▰▰▰░░░  65%
 
 ## `> currently_learning`
 
-```text
+```text id="7j2kq4"
 MACHINE LEARNING
 ├── Fundamentals
+├── Data preprocessing
 ├── Model building
 └── Applied ML
 
@@ -180,7 +201,7 @@ SOFTWARE ENGINEERING
 
 ## `> interests --load`
 
-```text
+```text id="3p8n5x"
 AI / ML
     └── Machine Learning • Deep Learning • Computer Vision
 
@@ -203,7 +224,7 @@ OTHER
 
 <div align="center">
 
-```text
+```text id="m7q4w2"
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │                       BUILD.                                │
@@ -241,8 +262,12 @@ OTHER
 
 <div align="center">
 
-```text
-code  ·  create  ·  learn  ·  repeat
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=00D9A6&center=true&vCenter=true&width=500&lines=CODE.;CREATE.;LEARN.;BREAK+THINGS.;UNDERSTAND+THEM.;BUILD+AGAIN." alt="Animated footer">
+
+</div>
+
+<div align="center">
+
+`code` · `create` · `learn` · `repeat`
 
 </div>
